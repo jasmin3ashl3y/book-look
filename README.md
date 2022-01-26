@@ -16,4 +16,4 @@ This is a MERN stack web application that uses Google Book Search API, and conne
 
 ## Deployed URL
 
-https://shielded-reaches-85469.herokuapp.com/
+https://shielded-reaches-85469.herokuapp.com
