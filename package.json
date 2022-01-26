@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.6.2",
+    "graphql": "^16.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmin3ashl3y/book-look.git"
   }
 }
