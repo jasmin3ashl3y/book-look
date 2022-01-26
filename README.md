@@ -8,11 +8,12 @@ This is a MERN stack web application that uses Google Book Search API, and conne
 
 ## Technologies Used
 
-- MongoDB
 - Express
+- Apollo
 - GraphQL
 - Node.js
 - React
 
 ## Deployed URL
 
+https://shielded-reaches-85469.herokuapp.com/
