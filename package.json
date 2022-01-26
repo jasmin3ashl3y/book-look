@@ -1,5 +1,5 @@
 {
-  "name": "book-look",
+  "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -16,11 +16,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "apollo-server-express": "^3.6.2",
+    "apollo-server-express": "^2.15.0",
     "graphql": "^16.2.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jasmin3ashl3y/book-look.git"
   }
 }
